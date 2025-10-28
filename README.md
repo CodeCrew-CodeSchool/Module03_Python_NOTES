@@ -7,3 +7,7 @@ This week, we're just proving that point, as well as diving into some language s
 
 Short day with our morning LinkedIn Profesional Session.
 Theory and setup for the Lab. Not many samples to share.
+
+# Tuesday
+
+Problem Solving Practice using HackerRank and IEEE Problemsets
