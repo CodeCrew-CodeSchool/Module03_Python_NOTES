@@ -1,5 +1,7 @@
 # OOP
 
+Building off of today's lecture, the dog example and Circle class challenge are included for reference.
+
 ## Challenge
 
 ### Shape Class with Subclasses for Different Shapes
